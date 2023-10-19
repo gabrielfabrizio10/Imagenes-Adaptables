@@ -1,5 +1,4 @@
 # Imagenes-Adaptables
-# Imagenes Adaptables_
 **¿Qué son las imagenes adaptables?** 
 
 [![image.png](https://i.postimg.cc/Z5bdPmtN/image.png)](https://postimg.cc/YhP0kJS2)
